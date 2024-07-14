@@ -16,7 +16,7 @@ Pot-O URL Extract is a simple yet powerful tool designed to extract unique URLs 
 
 ## Screenshots
 
-![Screenshot](path/to/screenshot.png)
+![Screenshot]([[https://ik.imagekit.io/superman0my0id/superman.my.id/github/Pot-O%20URL%20Extract%20version%201.0.5.png?updatedAt=1720931004352])
 
 ## Installation
 
